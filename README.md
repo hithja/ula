@@ -43,5 +43,3 @@ Runs your executable from `source` folder.
 #!/usr/bin/bash
 sh ./source/test.sh
 ```
-
-## Contributers
